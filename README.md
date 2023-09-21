@@ -1,4 +1,4 @@
-# Real World Testing  of NextJS application using with Cypress - Course App
+# Real World Testing  of NextJS application using Cypress
 
 This application is for the [Testing your first application course](https://learn.cypress.io/testing-your-first-application) on [learn.cypress.io](https://learn.cypress.io/).
 
