@@ -19,7 +19,6 @@ describe('template sp', () => {
   })
   })
 
-
   context("Courses section", () => {
     it("Course: Testing Your Next.js Application", () => {
       cy.getByData("course-0").find("a").eq(3).click()
